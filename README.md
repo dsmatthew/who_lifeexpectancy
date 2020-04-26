@@ -33,7 +33,12 @@ I used the WHO life expectancy data set from Kaggle (https://www.kaggle.com/kuma
 
 ## Results<a name="results"></a>
 
-The findings to the previously defined business questions are discussed in this [blogpost on medium](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
+The findings to the previously defined business questions are discussed in this [blogpost on medium](https://medium.com/@MatthiasSchroeder/who-life-expectancy-how-to-live-longer-2377738f948a)
+
+Short conclusion:
+The WHO life expectancy data set reveals some interesting relations between social and economic characteristics in relation to their life expectancy. It is shown that the correlation between life expectancy and higher expenditures is given, while countries with lower immunization tend to compensate this by increased expenditures on healthcare.
+On the downside the quality of the provided data set on Kaggle is poor to moderate: missing values are easier to handle, but wrong data points like total expenditure, population, developing/develop classification limits the business conclusions. It is recommended to do the analysis on a better data set with plausible data points. 
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
